@@ -3,7 +3,7 @@ import path from "path";
 
 import * as args from "./args";
 import * as versions from "./versions";
-import { RustUp, ToolchainOptions } from "@actions-rs/core";
+import { RustUp, ToolchainOptions } from "@xmc-rs/core";
 
 async function run(): Promise<void> {
     // we use path.join to make sure this works on Windows, Linux and MacOS
@@ -53,7 +53,7 @@ async function run(): Promise<void> {
     // if that specific `nightly` version does not have this component
     // available.
     //
-    // See https://github.com/actions-rs/toolchain/issues/53 also.
+    // See https://github.com/xmc-rs/toolchain/issues/53 also.
     //
     // By default `rustup` does not downgrade, as it does when you are
     // updating already installed `nightly`, so we need to pass the

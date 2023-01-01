@@ -1,6 +1,6 @@
 {
     "name": "rust-toolchain",
-    "version": "1.0.7",
+    "version": "1.0.0",
     "private": false,
     "description": "Install the Rust toolchain",
     "main": "lib/main.js",
@@ -18,7 +18,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/actions-rs/toolchain.git"
+        "url": "git+https://github.com/xmc-rs/toolchain.git"
     },
     "keywords": [
         "actions",
@@ -26,13 +26,13 @@
         "rustup",
         "toolchain"
     ],
-    "author": "actions-rs",
+    "author": "xmc-rs",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/actions-rs/toolchain/issues"
+        "url": "https://github.com/xmc-rs/toolchain/issues"
     },
     "dependencies": {
-        "@actions-rs/core": "0.1.6",
+        "@xmc-rs/core": "1.0.0",
         "@actions/core": "1.10.0",
         "@actions/exec": "1.1.1",
         "@actions/io": "1.1.2"

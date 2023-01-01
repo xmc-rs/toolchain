@@ -1,4 +1,4 @@
-import { input } from "@actions-rs/core";
+import { input } from "@xmc-rs/core";
 import { debug } from "@actions/core";
 import { existsSync, readFileSync } from "fs";
 

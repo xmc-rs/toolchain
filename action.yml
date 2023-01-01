@@ -1,6 +1,6 @@
 name: 'rust-toolchain'
 description: 'Install the Rust toolchain'
-author: 'actions-rs team'
+author: 'xmc-rs team'
 branding:
   icon: play-circle
   color: black
