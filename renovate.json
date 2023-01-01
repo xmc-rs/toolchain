@@ -1,0 +1,11 @@
+{
+
+    "extends": [
+
+        "local>xmc-rs/renovate-config"
+
+    ],
+
+    "includeForks": true
+
+}
