@@ -1,8 +1,6 @@
 # `rust-toolchain` Action
 
-[![Sponsoring](https://img.shields.io/badge/Support%20it-Say%20%22Thank%20you!%22-blue)](https://xmc-rs.github.io/#sponsoring)
 ![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)
-[![Gitter](https://badges.gitter.im/xmc-rs/community.svg)](https://gitter.im/xmc-rs/community)
 ![Continuous integration](https://github.com/xmc-rs/toolchain/workflows/Continuous%20integration/badge.svg)
 ![Dependabot enabled](https://api.dependabot.com/badges/status?host=github&repo=xmc-rs/toolchain)
 
