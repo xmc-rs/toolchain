@@ -1,4 +1,4 @@
-name: 'rust-toolchain'
+name: 'xmc-rust-toolchain'
 description: 'Install the Rust toolchain'
 author: 'xmc-rs team'
 branding:
